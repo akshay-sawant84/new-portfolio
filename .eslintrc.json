@@ -12,6 +12,10 @@
     "react/react-in-jsx-scope": "off",
     "no-console": ["warn", { "allow": ["warn", "error"] }],
     "react/jsx-one-expression-per-line": "off",
+    "react/jsx-props-no-spreading": "off",
+    "react/prop-types": "off",
+    "import/extensions": "off",
+    "import/no-unresolved" : "off",
     "react/jsx-indent-props": [2, "tab"],
     "prettier/prettier": ["error", {
 			"useTabs": true,
